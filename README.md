@@ -8,17 +8,27 @@
 
 ###  📌  &nbsp; The game menu wireframe: 
 
-![](images/wireframe_1.png)
-![](images/wireframe_2.png)
+<img src="images/wireframe_1.png" width="550">
+<img src="images/wireframe_2.png" width="550">
 
 ------------------------------------------------------------------------------------------------
 
 ###  👾 &nbsp; The gameplay wireframe: 
 
-![](images/wireframe_3.png)
-![](images/wireframe_4.png)
-![](images/wireframe_5.png)
-![](images/wireframe_6.png)
+<img src="images/wireframe_3.png" width="550">
+<img src="images/wireframe_4.png" width="550">
+<img src="images/wireframe_5.png" width="550">
+<img src="images/wireframe_6.png" width="550">
+
+
+------------------------------------------------------------------------------------------------
+
+### 🎮 &nbsp; The actual gameplay screenshot: 
+
+<img src="images/gameplay_1.png" width="550">
+<img src="images/gameplay_2.png" width="550">
+<img src="images/gameplay_3.png" width="550">
+
 
 
 
