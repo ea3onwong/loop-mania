@@ -1,8 +1,8 @@
 # LoopMania
 
-### ⚠ &nbsp; Disclaimer: 
+### ⚠ &nbsp; Notice: 
 - This repository is only for demonstration purpose ❗️❗️
-- The detailed codes of the project would not be shared 🔐 <br/>
+- The detailed codes of the project won't be shared 🔐 <br/>
 
 ------------------------------------------------------------------------------------------------
 
