@@ -4,5 +4,23 @@
 - This repository is only for demonstration purpose ❗️❗️❗️
 - ❌ The detailed codes of the project would not be shared 🔐 <br/>
 
-###  ✏️ &nbsp; The frontend design: 
-[frontend.pdf](https://github.com/ea3onwong/LoopMania/files/9846622/frontend.pdf)
+------------------------------------------------------------------------------------------------
+
+###  📌  &nbsp; The game menu wireframe: 
+
+![](images/wireframe_1.png)
+![](images/wireframe_2.png)
+
+------------------------------------------------------------------------------------------------
+
+###  👾 &nbsp; The gameplay wireframe: 
+
+![](images/wireframe_3.png)
+![](images/wireframe_4.png)
+![](images/wireframe_5.png)
+![](images/wireframe_6.png)
+
+
+
+
+
