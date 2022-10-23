@@ -5,4 +5,4 @@
 - ❌ The detailed codes of the project would not be shared 🔐 <br/>
 
 ###  ✏️ &nbsp; The frontend design: 
-![alt text]("https://github.com/ea3onwong/LoopMania/blob/main/frontend.pdf?raw=true)
+[frontend.pdf](https://github.com/ea3onwong/LoopMania/files/9846622/frontend.pdf)
