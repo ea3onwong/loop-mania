@@ -2,6 +2,9 @@
 
 ### ⚠ &nbsp; Disclaimer: 
 - This repository is only for demonstration purpose ❗️❗️❗️
-- ❌ The detailed codes of the project would not be shared 🔐
+- ❌ The detailed codes of the project would not be shared 🔐 <br/>
 
-###  ✏️ The frontend design draft of the project:
+###  ✏️ &nbsp; The frontend design: 
+
+[frontend.pdf](https://github.com/ea3onwong/LoopMania/files/9846571/frontend.pdf)
+
