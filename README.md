@@ -6,5 +6,5 @@
 
 ###  ✏️ &nbsp; The frontend design: 
 
-[embed]https://github.com/ea3onwong/LoopMania/files/9846571/frontend.pdf[/embed]
+https://docs.google.com/viewer?url=${https://github.com/ea3onwong/LoopMania/files/9846571/frontend.pdf}
 
