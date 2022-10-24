@@ -1,8 +1,9 @@
 # LoopMania
 
 ### ⚠ &nbsp; Notice: 
-- This repository is only for demonstration purposes ❗️❗️
-- The detailed codes of this project would not be shared 🔐 <br/>
+- This repository is for demonstration purposes only 
+- The detailed codes of this project would not be shared 🔐 <br/> <br/>
+
 
 ### 📝 &nbsp; Project description: 
 - An MVC based game application that was developed in Java, which requires players to follow a pre-generated path and fight with enemies 😈 along the path automatically.   
