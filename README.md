@@ -1,6 +1,6 @@
 # LoopMania
 
-### ⚠ &nbsp; Notice: 
+### Notice: 
 - This repository is for demonstration purposes only 
 - The detailed codes of this project would not be shared 🔐 <br/> <br/>
 
