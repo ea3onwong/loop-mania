@@ -1,0 +1,25 @@
+{
+  "width": 14,
+  "height": 8,
+  "rare_items": [],
+  "goal-condition": {"goal": "AND", "subgoals": [{"goal": "gold", "quantity" : 99999}, {"goal": "experience", "quantity" : 99999}]},
+  "entities": [
+    {"x": 0, "y": 0, "type": "hero_castle"},
+    {"x": 5, "y": 3, "type": "zombie_pit"},
+    {"x": 12, "y": 5, "type": "vampire_castle"}
+  ],
+  "path": {
+    "type": "path_tile",
+    "x": 0, "y": 0,
+    "path": [
+      "DOWN", "DOWN", "RIGHT", "DOWN", "DOWN", "LEFT", "DOWN", "DOWN", "DOWN",
+      "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT",
+      "UP", "UP", "UP", "LEFT", "LEFT", "DOWN",
+      "LEFT", "LEFT", "LEFT", "LEFT", "UP", "UP", "UP",
+      "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT",
+      "DOWN", "DOWN", "DOWN", "DOWN", "DOWN", "RIGHT", "RIGHT",
+      "UP", "UP", "UP", "UP", "UP", "UP", "UP",
+      "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT"
+    ]
+  }
+}

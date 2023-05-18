@@ -1,10 +1,4 @@
 # LoopMania - COMP2511 project  
-
-### Notice: 
-- This repository is for demonstration purposes only 
-- The details of the codes would not be shared 🔐 <br/> <br/>
-
-
 ### 📝 &nbsp; Project description: 
 - An MVC based game application that was developed in Java, which requires players to follow a pre-generated path and fight with enemies 😈 along the path automatically.   
 

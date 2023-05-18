@@ -1,0 +1,23 @@
+{
+  "width": 14,
+  "height": 8,
+  "rare_items": ["the_one_ring", "anduril_flame_of_the_west", "tree_stump"],
+  "goal-condition": {"goal": "AND", "subgoals": [{"goal": "cycles", "quantity" : 5}, {"goal": "gold", "quantity" : 10}]},
+  "entities": [
+    {"x": 0, "y": 0, "type": "hero_castle"}
+  ],
+  "path": {
+    "type": "path_tile",
+    "x": 0, "y": 0,
+    "path": [
+      "DOWN", "DOWN", "RIGHT", "DOWN", "DOWN", "LEFT", "DOWN", "DOWN", "DOWN",
+      "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT",
+      "UP", "UP", "UP", "LEFT", "LEFT", "DOWN",
+      "LEFT", "LEFT", "LEFT", "LEFT", "UP", "UP", "UP",
+      "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT",
+      "DOWN", "DOWN", "DOWN", "DOWN", "DOWN", "RIGHT", "RIGHT",
+      "UP", "UP", "UP", "UP", "UP", "UP", "UP",
+      "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT"
+    ]
+  }
+}
