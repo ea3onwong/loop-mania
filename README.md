@@ -1,8 +1,8 @@
 # LoopMania
 
 ### Notice: 
+- This is UNSW COMP2511 project  <br/> <br/>
 - This repository is for demonstration purposes only 
-- The detailed codes of this project would not be shared 🔐 <br/> <br/>
 
 
 ### 📝 &nbsp; Project description: 
