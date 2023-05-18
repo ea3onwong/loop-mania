@@ -2,7 +2,8 @@
 
 ### Notice: 
 - This is UNSW COMP2511 project  
-- This repository is for demonstration purposes only <br/> <br/>
+- This repository is for demonstration purposes only 
+- The details of the codes would not be shared 🔐 <br/> <br/>
 
 
 ### 📝 &nbsp; Project description: 
